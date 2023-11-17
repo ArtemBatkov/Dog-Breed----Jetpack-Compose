@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DogBreed</string>
+    <string name="title_activity_detailed_dog_page">DetailedDogPage</string>
+</resources>
